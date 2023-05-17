@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x create_global_variable.sh
+export BEST= "school"
